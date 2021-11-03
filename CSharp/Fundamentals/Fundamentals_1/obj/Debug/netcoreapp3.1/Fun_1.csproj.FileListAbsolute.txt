@@ -1,0 +1,13 @@
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\bin\Debug\netcoreapp3.1\Fun_1.exe
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\bin\Debug\netcoreapp3.1\Fun_1.deps.json
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\bin\Debug\netcoreapp3.1\Fun_1.runtimeconfig.json
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\bin\Debug\netcoreapp3.1\Fun_1.runtimeconfig.dev.json
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\bin\Debug\netcoreapp3.1\Fun_1.dll
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\bin\Debug\netcoreapp3.1\Fun_1.pdb
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\obj\Debug\netcoreapp3.1\Fun_1.csprojAssemblyReference.cache
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\obj\Debug\netcoreapp3.1\Fun_1.AssemblyInfoInputs.cache
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\obj\Debug\netcoreapp3.1\Fun_1.AssemblyInfo.cs
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\obj\Debug\netcoreapp3.1\Fun_1.csproj.CoreCompileInputs.cache
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\obj\Debug\netcoreapp3.1\Fun_1.dll
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\obj\Debug\netcoreapp3.1\Fun_1.pdb
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\Fundamentals_1\obj\Debug\netcoreapp3.1\Fun_1.genruntimeconfig.cache
