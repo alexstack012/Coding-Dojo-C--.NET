@@ -1,0 +1,13 @@
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\obj\Debug\netcoreapp3.1\multTable.csprojAssemblyReference.cache
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\obj\Debug\netcoreapp3.1\multTable.AssemblyInfoInputs.cache
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\obj\Debug\netcoreapp3.1\multTable.AssemblyInfo.cs
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\obj\Debug\netcoreapp3.1\multTable.csproj.CoreCompileInputs.cache
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\bin\Debug\netcoreapp3.1\multTable.exe
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\bin\Debug\netcoreapp3.1\multTable.deps.json
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\bin\Debug\netcoreapp3.1\multTable.runtimeconfig.json
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\bin\Debug\netcoreapp3.1\multTable.runtimeconfig.dev.json
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\bin\Debug\netcoreapp3.1\multTable.dll
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\bin\Debug\netcoreapp3.1\multTable.pdb
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\obj\Debug\netcoreapp3.1\multTable.dll
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\obj\Debug\netcoreapp3.1\multTable.pdb
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\Fundamentals\multTable\obj\Debug\netcoreapp3.1\multTable.genruntimeconfig.cache
