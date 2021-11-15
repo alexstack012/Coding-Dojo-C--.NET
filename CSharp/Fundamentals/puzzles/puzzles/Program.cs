@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace puzzles
@@ -75,26 +75,56 @@ namespace puzzles
 
         public static List<string> Names()
         {
+            // Create an list with the values: Todd, Tiffany, Charlie, Geneva, Sydney
+            List<string> names = new List<string>()
+            {
+                "Todd", "Tiffany", "Charlie", "Geneva", "Sydney"
+            };
             Random rand = new Random();
-            List<string> names = new List<string> { "Todd", "Tiffany", "Charlie", "Geneva", "Sydney" };
-            for (int i = 0; i < names.Count; i++)
+            // shuffle names
+            for (var i = 0; i < names.Count / 2; i++)
             {
-                int asdf = rand.Next(5);
-                string temp = names[i];
-                names[i] = names[asdf];
-                names[asdf] = temp;
+                // swap names[i] with names[randomIndex]
+                int randomIndex = rand.Next(names.Count);
+                string temp = names[randomIndex];
+                names[randomIndex] = names[i];
+                names[i] = temp;
             }
-            for (int i = 0; i < names.Count; i++)
+            // print new order of names
+            foreach (var name in names)
             {
-                Console.WriteLine(names[i]);
-                if (names[i].Length < 5)
-                {
-                    names.Remove(names[i]);
-
-                }
+                Console.WriteLine(name);
+            }
+            // remove names not larger than 5 characters
+            for (var i = 0; i < names.Count; i++)
+            {
+                if (names[i].Length <= 5)
+                    names.RemoveAt(i);
             }
             return names;
         }
+
+        // public static List<string> Names()
+        // {
+        //     Random rand = new Random();
+        //     List<string> names = new List<string> { "Todd", "Tiffany", "Charlie", "Geneva", "Sydney" };
+        //     for (int i = 0; i < names.Count; i++)
+        //     {
+        //         int asdf = rand.Next(5);
+        //         string temp = names[i];
+        //         names[i] = names[asdf];
+        //         names[asdf] = temp;
+        //     }
+        //     for (int i = 0; i < names.Count; i++)
+        //     {
+        //         Console.WriteLine(names[i]);
+        //         if (names[i].Length < 5)
+        //         {
+        //             names.Remove(names[i]);
+        //         }
+        //     }
+        //     return names;
+        // }
 
         static void Main(string[] args)
         {
