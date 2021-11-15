@@ -1,0 +1,13 @@
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\bin\Debug\netcoreapp3.1\OOPFUN.exe
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\bin\Debug\netcoreapp3.1\OOPFUN.deps.json
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\bin\Debug\netcoreapp3.1\OOPFUN.runtimeconfig.json
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\bin\Debug\netcoreapp3.1\OOPFUN.runtimeconfig.dev.json
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\bin\Debug\netcoreapp3.1\OOPFUN.dll
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\bin\Debug\netcoreapp3.1\OOPFUN.pdb
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\obj\Debug\netcoreapp3.1\OOPFUN.csprojAssemblyReference.cache
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\obj\Debug\netcoreapp3.1\OOPFUN.AssemblyInfoInputs.cache
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\obj\Debug\netcoreapp3.1\OOPFUN.AssemblyInfo.cs
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\obj\Debug\netcoreapp3.1\OOPFUN.csproj.CoreCompileInputs.cache
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\obj\Debug\netcoreapp3.1\OOPFUN.dll
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\obj\Debug\netcoreapp3.1\OOPFUN.pdb
+C:\Users\alaly\Desktop\CODE\Coding Dojo\CSharp\OOP\OOPFUN\obj\Debug\netcoreapp3.1\OOPFUN.genruntimeconfig.cache
